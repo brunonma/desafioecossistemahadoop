@@ -1,0 +1,5 @@
+gsutil -m cp \
+  "gs://desafio_dataprocbruno/contador.py" \
+  "gs://desafio_dataprocbruno/livro.txt" \
+  "gs://desafio_dataprocbruno/part-00000.txt" \
+  .
